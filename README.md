@@ -1,6 +1,6 @@
 # Rdapi
 
-TODO: Write a gem description
+This gem is to make integration with Salesforce.
 
 ## Installation
 
